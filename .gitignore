@@ -1,0 +1,8 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+# Please note this file is created by '@tutor/ng-cli'
+
+# Dependencies
+node_modules
+
+# System Files
+.DS_Store
